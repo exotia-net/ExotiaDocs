@@ -1,0 +1,18 @@
+input: .
+output: .retype
+url: wiki.exotia.net
+edit:
+  repo: "https://github.com/exotia-net/ExotiaDocs/edit"
+  branch: "main"
+branding:
+  title: exotia.net
+  label: wiki
+links:
+- text: Discord
+  link: https://dc.exotia.net
+favicon: static/favicon.ico
+search:
+  noResultsFoundMsg: Nie znaleziono.
+  placeholder: Szukaj
+footer:
+  copyright: "&copy; exotia.net {{ year }}. Wszelkie prawa zastrzeżone."
