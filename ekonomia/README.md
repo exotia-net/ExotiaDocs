@@ -21,8 +21,8 @@ pomocą komendy `/bank` oraz NPC, którego znajdziesz w urzędzie miasta!
 !!!
 ### Wpłata
 !!!Klikając na ten przycisk zostaniesz przeniesiony do GUI z `wpłatą` pieniędzy fizycznych, które masz w ekwipunku.
-![](https://i.imgur.com/3LqAJoz.png)
 !!!
+![](https://i.imgur.com/3LqAJoz.png)
 
 ---
 
