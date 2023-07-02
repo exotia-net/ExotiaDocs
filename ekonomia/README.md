@@ -29,7 +29,9 @@ Aby sprzedać item, musisz odnaleźć stragan z fioletowymi deskami w którym zn
 
 Kliknij w niego prawym przyciskiem myszy aby z nim "porozmawiać", po czym włączy się wybór kategorii rzeczy jakie możemy mu zaoferować
 
+!!!warning Sprzedaj Wszystko
 Możesz sprzedać wszytsko klikając w przycisk "sprzedaj wszytsko"
+!!!
 
 ![](https://i.imgur.com/6qGHFPn.png)
 
