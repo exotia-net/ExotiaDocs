@@ -14,5 +14,3 @@ Wpłata: Klikając na ten przycisk zostaniesz przeniesiony do GUI z wpłatą pie
 ## Wpłata
 Wrzuć monety z ekwipunku aby wpłacić je do banku! 
 ![](https://imgur.com/3LqAJoz)
-
-
