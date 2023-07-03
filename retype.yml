@@ -7,6 +7,9 @@ edit:
 branding:
   title: exotia.net
   label: wiki
+  colors:
+    label:
+      text: "#4fa943"
 links:
 - text: Discord
   link: https://dc.exotia.net
@@ -18,3 +21,4 @@ search:
   placeholder: Szukaj
 footer:
   copyright: "&copy; exotia.net {{ year }}. Wszelkie prawa zastrzeżone."
+
