@@ -1,5 +1,5 @@
 ---
-icon: house
+icon: tools
 label: "Działki"
 ---
 
