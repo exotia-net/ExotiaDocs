@@ -10,3 +10,6 @@ label: "Nagrody"
 
 ![](https://i.imgur.com/uc6pjeA.png)
 
+![](https://i.imgur.com/ZbBAuCY.png)
+
+
