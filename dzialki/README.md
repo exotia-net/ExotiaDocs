@@ -68,3 +68,4 @@ zebrać i postawić w innym miejscu.
 
 ![](https://i.imgur.com/hQFrX4N.png)
 
+
