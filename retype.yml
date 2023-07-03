@@ -9,7 +9,7 @@ branding:
   label: wiki
   colors:
     label:
-      text: "#4fa943"
+      background: "#4fa943"
 links:
 - text: Discord
   link: https://dc.exotia.net
