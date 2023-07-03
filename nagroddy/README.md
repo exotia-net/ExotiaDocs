@@ -1,6 +1,6 @@
 ---
 icon: star
-label: "Podstawowe komendy"
+label: "Nagrody"
 ---
 
 # Nagroda
