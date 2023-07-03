@@ -6,7 +6,7 @@ label: "Random Teleport"
 
 # Random Teleport
 !!!
-Znajdziesz na spwanie znajdź NPC z globusem na głowie i tagiem `RTP` który przeteleportuje was na randomowe miejsce na mapie.
+Na spawnie znajdź NPC z globusem na głowie i tagiem `RTP` który przeteleportuje was na losowe miejsce na mapie.
 !!!
 
 !!!warning 
