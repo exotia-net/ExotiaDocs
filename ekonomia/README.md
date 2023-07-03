@@ -73,8 +73,7 @@ Aby sparwdzić rynek graczy znajdz "NPC" w niebieskim straganie lub użyj komend
 
 ![](https://i.imgur.com/yoKkEpw.png)
 
-!!!
-Po kliknięciu pojawi ci sie lista przedmiotów do kupna
+!!!Po kliknięciu pojawi ci sie lista przedmiotów do kupna
 !!!
 
 ![](https://i.imgur.com/png.png)
