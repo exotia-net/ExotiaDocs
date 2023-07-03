@@ -1,5 +1,5 @@
 ---
-icon: tags
+icon: terminal
 label: "Podstawowe komendy"
 ---
 
