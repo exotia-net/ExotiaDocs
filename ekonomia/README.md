@@ -51,3 +51,38 @@ Możesz sprzedać wszytsko klikając w przycisk "sprzedaj wszytsko"
 !!!Następnie, kliknij w przemiot który chcesz sprzedać, jeśli nie będziesz posiadał danego przedmiotu to nie uda Ci sie go sprzedać!
 !!!
 ![](https://i.imgur.com/fxbHstg.png)
+
+---
+
+## Rynek
+
+!!! 
+Aby sparwdzić rynek graczy znajdz "NPC" w niebieskim straganie lub użyj komendy `/rynek`
+!!!
+
+![](https://i.imgur.com/yoKkEpw.png)
+
+!!!
+Po kliknięciu pojawi ci sie lista przedmiotów do kupna
+!!!
+
+![](https://i.imgur.com/png.png)
+
+## Wystaw przedmiot
+
+!!!
+Aby wystawić przedmiot na rynek, użyj komendy /rynek sprzedaj, po czym uruchomi 
+się gui, w którym możesz ustalić cenę danego przedmiotu oraz zatwierdzić klikając 
+na zielony przycisk.
+!!!
+
+![](https://i.imgur.com/png.png)
+
+## Magazn
+
+!!!
+Po uruchomieniu /rynek, na dole interfejsu graficznego (GUI) kliknij przycisk "XXX", 
+aby otworzyć magazyn. Aby ściągnąć przedmiot, wystarczy na niego kliknąć.
+!!!
+
+![](https://i.imgur.com/png.png)
