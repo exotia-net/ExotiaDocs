@@ -1,2 +1,9 @@
+---
+label: "Czym jest exotia?"
+icon: home
+---
+
 # ExotiaDocs
-Documentation of exotia server
+>Dokumentacja Exotia Server Minecraft
+
+

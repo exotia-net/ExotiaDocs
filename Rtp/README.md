@@ -1,6 +1,8 @@
 ---
 icon: rocket
+label: "Random Teleport"
 ---
+
 
 # Random Teleport
 !!!
@@ -12,3 +14,6 @@ Komenda `/rtp` nie istnieje, aby sie przeleportować musisz wrócić na spawn!
 !!!
 
 ![](https://i.imgur.com/pNcloa6.png)
+
+
+---

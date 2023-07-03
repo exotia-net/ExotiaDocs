@@ -1,14 +1,19 @@
 ---
 icon: repo
+label: "Ekonomia"
 ---
 
 # Ekonomia
+
+---
 ## Bank
 !!! Cała ekonomia jest oparta na systemie GUI, które można uruchomić za 
 pomocą komendy `/bank` oraz NPC, którego znajdziesz w urzędzie miasta!
 !!!
 
 ![](https://i.imgur.com/TM7Y2Vj.png)
+
+---
 ## Saldo
 !!! Aby sprawdzić ilość posiadanych pieniędzy, wpisz komendę `/saldo` 
 !!!
