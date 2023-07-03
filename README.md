@@ -1,2 +1,4 @@
 # ExotiaDocs
-Documentation of exotia server
+!!![PL] Dokumentacja serwera Exotia.net
+[ANG] Documentation of exotia server
+!!!
