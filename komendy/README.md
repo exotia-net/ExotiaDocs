@@ -39,4 +39,24 @@ Aby ustawić dom użyj komendy `/sethome (nazwa)`
 Wszytkie warpy znajduja sie pod komendą `/warp`
 !!!
 
-![](https://imgur.com/pmASREp.png)
+![](https://i.imgur.com/pmASREp.png)
+
+## Kosz
+
+!!!
+Darmowy kosz znajdziesz pod komendą `/kosz`
+!!!
+
+![](https://i.imgur.com/FsCNsn4.png)
+
+## Prywatne wiadomości
+
+!!!
+Aby wsyłać prywaną wiadomość użyj komendy `/msg (nick) (wiadomość)`
+!!!
+
+!!!warning
+Możesz użyć `/r (wiadomość)` aby szyko odpowiedzieć!
+!!!
+
+![](https://i.imgur.com/xVRk8ms.png)
