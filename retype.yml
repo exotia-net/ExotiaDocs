@@ -10,6 +10,7 @@ branding:
   colors:
     label:
       background: "#4fa943"
+      text: "#4fa943"
 links:
 - text: Discord
   link: https://dc.exotia.net
