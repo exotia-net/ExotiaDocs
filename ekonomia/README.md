@@ -29,6 +29,17 @@ pomocą komendy `/bank` oraz NPC, którego znajdziesz w urzędzie miasta!
 !!!
 ![](https://i.imgur.com/3LqAJoz.png)
 
+## Przelej
+!!!
+Użyj komendy `/przelej (nick) (kwota)`
+!!!
+
+!!!warning
+Na przelewy jest nałożona 5% prowizja! Zachęcamy do kożystania z gotowki
+!!!
+
+![](https://i.imgur.com/kERBWqX.png)
+
 ---
 
 ## Skup
