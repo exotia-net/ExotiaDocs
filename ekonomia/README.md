@@ -30,8 +30,7 @@ pomocą komendy `/bank` oraz NPC, którego znajdziesz w urzędzie miasta!
 ![](https://i.imgur.com/3LqAJoz.png)
 
 ## Przelej
-!!!
-Użyj komendy `/przelej (nick) (kwota)`
+!!!Użyj komendy `/przelej (nick) (kwota)`
 !!!
 
 !!!warning
@@ -67,8 +66,7 @@ Możesz sprzedać wszytsko klikając w przycisk "sprzedaj wszytsko"
 
 ## Rynek
 
-!!! 
-Aby sparwdzić rynek graczy znajdz "NPC" w niebieskim straganie lub użyj komendy `/rynek`
+!!!Aby sparwdzić rynek graczy znajdz "NPC" w niebieskim straganie lub użyj komendy `/rynek`
 !!!
 
 ![](https://i.imgur.com/yoKkEpw.png)
@@ -80,8 +78,7 @@ Aby sparwdzić rynek graczy znajdz "NPC" w niebieskim straganie lub użyj komend
 
 ## Wystaw przedmiot
 
-!!!
-Aby wystawić przedmiot na rynek, użyj komendy /rynek sprzedaj, po czym uruchomi 
+!!!Aby wystawić przedmiot na rynek, użyj komendy /rynek sprzedaj, po czym uruchomi 
 się gui, w którym możesz ustalić cenę danego przedmiotu oraz zatwierdzić klikając 
 na zielony przycisk.
 !!!
@@ -90,8 +87,7 @@ na zielony przycisk.
 
 ## Magazn
 
-!!!
-Po uruchomieniu /rynek, na dole interfejsu graficznego (GUI) kliknij przycisk "XXX", 
+!!!Po uruchomieniu /rynek, na dole interfejsu graficznego (GUI) kliknij przycisk "XXX", 
 aby otworzyć magazyn. Aby ściągnąć przedmiot, wystarczy na niego kliknąć.
 !!!
 
