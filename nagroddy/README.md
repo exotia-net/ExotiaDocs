@@ -8,7 +8,7 @@ label: "Nagrody"
 !!!Aby odebrać codzinną nagrode kliknij na npc, którego znajdziesz na spawn!
 !!!
 
-![](https://i.imgur.com/uc6pjeA.png)
+![](https://i.imgur.com/CltzCTi.png)
 
 ![](https://i.imgur.com/ZbBAuCY.png)
 
