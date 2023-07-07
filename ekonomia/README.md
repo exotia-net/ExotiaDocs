@@ -85,7 +85,7 @@ na zielony przycisk.
 
 ![](https://i.imgur.com/png.png)
 
-## Magazn
+## Magazyn
 
 !!!Po uruchomieniu /rynek, na dole interfejsu graficznego (GUI) kliknij przycisk "XXX", 
 aby otworzyć magazyn. Aby ściągnąć przedmiot, wystarczy na niego kliknąć.
