@@ -17,7 +17,7 @@ label: "Podstawowe komendy"
 !!!Aby otowrzyć gui z domami użyj komendy `/home`
 !!!
 
-!!!warning Aby sie przeteleportować do twojego domu kliknij prawym na dom
+!!!warning Aby sie przeteleportować do twojego domu kliknij lewym na dom, aby usunąć dom kliknij prawym
 !!!
 
 ![](https://i.imgur.com/9QrFzlZ.png)

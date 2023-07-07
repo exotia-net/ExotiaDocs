@@ -78,7 +78,7 @@ Możesz sprzedać wszytsko klikając w przycisk "sprzedaj wszytsko"
 
 ## Wystaw przedmiot
 
-!!!Aby wystawić przedmiot na rynek, użyj komendy /rynek sprzedaj, po czym uruchomi 
+!!!Aby wystawić przedmiot na rynek, użyj komendy /rynek dodaj, po czym uruchomi 
 się gui, w którym możesz ustalić cenę danego przedmiotu oraz zatwierdzić klikając 
 na zielony przycisk.
 !!!
