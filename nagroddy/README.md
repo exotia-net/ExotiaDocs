@@ -1,10 +1,10 @@
-[//]: # (---)
+---
 
-[//]: # (icon: star)
+icon: star
 
-[//]: # (label: "Nagrody")
+label: "Nagrody"
 
-[//]: # (---)
+---
 
 [//]: # ()
 [//]: # (# Nagroda)

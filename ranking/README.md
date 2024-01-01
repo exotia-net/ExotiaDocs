@@ -1,5 +1,5 @@
 ---
-icon: [config]
+icon: graph
 label: "Ranking"
 ---
 
