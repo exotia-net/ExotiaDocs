@@ -1,15 +1,24 @@
----
-icon: star
-label: "Nagrody"
----
+[//]: # (---)
 
-# Nagroda
+[//]: # (icon: star)
 
-!!!Aby odebrać codzinną nagrode kliknij na npc, którego znajdziesz na spawn!
-!!!
+[//]: # (label: "Nagrody")
 
-![](https://i.imgur.com/CltzCTi.png)
+[//]: # (---)
 
-![](https://i.imgur.com/ZbBAuCY.png)
+[//]: # ()
+[//]: # (# Nagroda)
 
+[//]: # ()
+[//]: # (!!!Aby odebrać codzinną nagrode kliknij na npc, którego znajdziesz na spawn!)
+
+[//]: # (!!!)
+
+[//]: # ()
+[//]: # (![]&#40;https://i.imgur.com/CltzCTi.png&#41;)
+
+[//]: # ()
+[//]: # (![]&#40;https://i.imgur.com/ZbBAuCY.png&#41;)
+
+[//]: # ()
 
